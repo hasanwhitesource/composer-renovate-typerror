@@ -25,6 +25,6 @@
 		"authorizenet/authorizenet": "^1.9",
 		"yahnis-elsts/plugin-update-checker": "^4.2",
 		"twisted1919/mailwizz-php-sdk": "^1.0",
-		"defuse/php-encryption": "^2.1"
+		"defuse/php-encryption": "^2.3"
     }
 }
